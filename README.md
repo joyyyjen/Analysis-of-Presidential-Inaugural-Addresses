@@ -1,6 +1,6 @@
 # SpeechAna
 
-# language_recognition
+# Analysis of Presidential Inaugural Addresses
 
 Homework 2 for LING 490 Special Topics
 
@@ -32,3 +32,4 @@ try changing the first line #!/usr/local/bin/python3 to #!/usr/bin/python3
 NOTE:
 The analysis question and answers is in the Stat_Analysis2.html file. 
 It's a jupyter notebook step by step coding and response. 
+This include PART 1 ESL Corpus Response
