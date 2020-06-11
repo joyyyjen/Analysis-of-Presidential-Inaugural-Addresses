@@ -1,5 +1,3 @@
-# SpeechAna
-
 # Analysis of Presidential Inaugural Addresses
 
 Homework 2 for LING 490 Special Topics
